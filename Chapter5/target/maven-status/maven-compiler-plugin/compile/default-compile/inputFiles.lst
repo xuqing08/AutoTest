@@ -1,0 +1,16 @@
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/suite/LoginTest.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/IgnoreTest.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/groups/CroupsOnClass1.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/suite/PayTest.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/groups/CroupsOnClass3.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/suite/SuiteConfig.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/ExceptException.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/groups/GroupOnMethod.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/paramter/ParamterTest.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/paramter/DataProviderTest.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/multiThread/MultiThreadOnXml.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/DependTest.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/groups/CroupsOnClass2.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/TimeOutTest.java
+/Users/xuqing/IdeaProjects/AutoTest/Chapter5/src/main/java/com/course/testng/multiThread/MultiThreadOnAnnotion.java
